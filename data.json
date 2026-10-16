@@ -4,7 +4,7 @@
         "title": "API Design & Development",
         "author": "Ei Maung",
         "coverUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/covers/one.jpeg",
-        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/one.pdf",
+        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/books/one.pdf",
         "description": "Learn RESTful API design concepts and backend communication fundamentals.",
         "category": "Technology"
     },
@@ -13,7 +13,7 @@
         "title": "Sample Dart & Flutter Guide",
         "author": "Developer Community",
         "coverUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/covers/one.jpeg",
-        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/one.pdf",
+        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/books/one.pdf",
         "description": "A beginner guide to Flutter UI and mobile app architecture.",
         "category": "Programming"
     },
@@ -22,7 +22,7 @@
         "title": "Go Backend Microservices",
         "author": "Brownsley Heim",
         "coverUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/covers/one.jpeg",
-        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/one.pdf",
+        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/books/one.pdf",
         "description": "Building scalable backend microservices and REST APIs using Go and Gin framework.",
         "category": "Backend"
     },
@@ -31,7 +31,7 @@
         "title": "CCNA Network Fundamentals",
         "author": "Networking Pro",
         "coverUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/covers/one.jpeg",
-        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/one.pdf",
+        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/books/one.pdf",
         "description": "Comprehensive guide covering VLANs, subnetting, OSPF, and router configurations.",
         "category": "Networking"
     },
@@ -40,7 +40,7 @@
         "title": "PostgreSQL & Database Design",
         "author": "Data Architecture Team",
         "coverUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/covers/one.jpeg",
-        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/one.pdf",
+        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/books/one.pdf",
         "description": "Learn relational database design, indexing strategies, and GORM migrations.",
         "category": "Database"
     },
@@ -49,7 +49,7 @@
         "title": "Docker & Containerization Mastery",
         "author": "DevOps Expert",
         "coverUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/covers/one.jpeg",
-        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/one.pdf",
+        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/books/one.pdf",
         "description": "Multi-stage Docker builds, image optimization, and container management with Portainer.",
         "category": "DevOps"
     },
@@ -58,7 +58,7 @@
         "title": "Linux Mint & System Administration",
         "author": "Open Source Guild",
         "coverUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/covers/one.jpeg",
-        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/one.pdf",
+        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/books/one.pdf",
         "description": "Essential terminal commands, shell scripting, and system management on Linux.",
         "category": "Operating System"
     },
@@ -67,7 +67,7 @@
         "title": "Clean Architecture in Action",
         "author": "Software Engineering Group",
         "coverUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/covers/one.jpeg",
-        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/one.pdf",
+        "pdfUrl": "https://raw.githubusercontent.com/brownsley/e-books/main/books/one.pdf",
         "description": "Structuring robust applications with decoupled layers, use cases, and clean boundaries.",
         "category": "Architecture"
     }
